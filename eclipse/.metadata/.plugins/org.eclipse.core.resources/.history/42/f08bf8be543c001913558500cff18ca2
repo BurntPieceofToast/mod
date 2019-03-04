@@ -1,0 +1,5 @@
+package com.burntpieceoftoast.steamfoundation.util.handlers;
+
+public class RegistryHandler {
+
+}

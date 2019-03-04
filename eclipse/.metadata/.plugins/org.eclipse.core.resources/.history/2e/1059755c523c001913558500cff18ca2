@@ -1,0 +1,7 @@
+package com.burntpieceoftoast.steamfoundation;
+
+@Mod()
+public class Main 
+{
+
+}

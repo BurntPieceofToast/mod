@@ -1,0 +1,6 @@
+package com.burntpieceoftoast.steamfoundation.util;
+
+public interface iHasModel 
+{
+	public void registerModels();
+}

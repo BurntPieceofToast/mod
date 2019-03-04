@@ -1,0 +1,5 @@
+package com.burntpieceoftoast.steamfoundation.blocks;
+
+public class BlockBase {
+
+}

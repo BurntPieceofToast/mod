@@ -1,0 +1,11 @@
+{
+"parent":"block/orientable",
+"textures":{
+"top":
+"src:blocks/amber_ore",
+"front":
+"src:blocks/amber_ore",
+"side":
+"src:blocks/amber_ore"
+}
+}

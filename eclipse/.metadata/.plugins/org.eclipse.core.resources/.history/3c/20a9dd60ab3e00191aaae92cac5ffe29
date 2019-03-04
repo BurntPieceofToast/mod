@@ -1,0 +1,5 @@
+//items
+item.raw amber.name = Raw Amber
+
+//blocks
+tile.amber ore.name = Raw Amber Block
