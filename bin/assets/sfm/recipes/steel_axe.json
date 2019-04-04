@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "SS ",
+        "SW ",
+        " W "
+    ],
+
+    "key":
+    {
+        "S":
+        {
+            "item": "sfm:steel_ingot"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+
+    "result":
+    {
+        "item": "sfm:steel_axe",
+        "count": 1
+    }
+}
+    
+        

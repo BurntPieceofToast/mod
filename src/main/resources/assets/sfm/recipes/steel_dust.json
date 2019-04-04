@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "dust",
+
+    "ingredients": [
+    {
+        "item": "sfm:iron_dust"
+    },
+    {
+        "item": "sfm:iron_dust"
+    },
+    {
+        "item": "sfm:iron_dust"
+    },
+    {
+        "item": "sfm:coal_dust"
+    }
+],
+    
+    "result":
+    {
+        "item": "sfm:steel_dust",
+        "count": 3
+    }
+}

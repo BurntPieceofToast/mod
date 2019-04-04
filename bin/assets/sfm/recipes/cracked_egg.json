@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "E"
+    ],
+
+    "key":
+    {
+        "E":
+        {
+            "item": "minecraft:egg"
+        }
+    },
+
+    "result":
+    {
+        "item": "sfm:cracked_egg",
+        "count": 1
+    }
+}
+    
+                

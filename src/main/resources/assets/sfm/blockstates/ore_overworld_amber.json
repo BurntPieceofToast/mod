@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "sfm:ore_overworld_amber" }
+    }
+}

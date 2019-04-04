@@ -1,8 +1,11 @@
 package com.burntpieceoftoast.steamfoundation;
 
+import com.burntpieceoftoast.steamfoundation.init.ModRecipes;
 import com.burntpieceoftoast.steamfoundation.proxy.CommonProxy;
+import com.burntpieceoftoast.steamfoundation.tabs.SteamFoundation;
 import com.burntpieceoftoast.steamfoundation.util.Reference;
 
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod.Instance;
@@ -18,6 +21,8 @@ public class Main {
 	@Instance
 	public static Main instance;
 	
+	public static final CreativeTabs steamfoundation = new SteamFoundation("steam foundation");
+	
 	@SidedProxy(clientSide= Reference.CLIENT_PROXY_CLASS, serverSide = Reference.COMMON_PROXY_CLASS)
 	public static CommonProxy proxy;
 	
@@ -30,7 +35,7 @@ public class Main {
 	@EventHandler
 	public static void init(FMLInitializationEvent event)
 	{
-		
+		ModRecipes.init();
 	}
 	
 	@EventHandler
@@ -38,4 +43,5 @@ public class Main {
 	{
 		
 	}
+	
 }

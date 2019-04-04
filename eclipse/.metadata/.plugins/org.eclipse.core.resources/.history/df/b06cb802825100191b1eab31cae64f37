@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "CCC",
+        "CIC",
+        "CCC"
+    ],
+
+    "key":
+    {
+        "C":
+        {
+            "item": "sfm:copper_ingot"
+        },
+            "I":
+        {
+            "item": "minecraft:iron"
+        }
+    },
+
+    "result":
+    {
+        "item": "sfm:copper_coil",
+        "count": 1
+    }
+}
+    
+                

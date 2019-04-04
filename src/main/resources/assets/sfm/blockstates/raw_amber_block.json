@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "sfm:raw_amber_block" }
+    }
+}

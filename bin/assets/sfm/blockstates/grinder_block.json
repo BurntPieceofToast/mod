@@ -1,0 +1,12 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": {
+            "model": "sfm:grinder_block"
+        },
+        "inventory": {
+            "model": "sfm:grinder_block",
+            "transform": "forge:default-block"
+            }
+         }
+}

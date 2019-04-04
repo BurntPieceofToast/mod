@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+
+    "key":
+    {
+        "A":
+        {
+            "item": "sfm:raw_amber"
+        }
+    },
+
+    "result":
+    {
+        "item": "sfm:raw_amber_block",
+        "count": 1
+    }
+}
+    
+                

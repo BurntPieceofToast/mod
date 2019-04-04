@@ -4,7 +4,7 @@
   "name": "Steam Foundation",
   "description": "Example placeholder mod.",
   "version": "${version}",
-  "mcversion": "${1.12.2}",
+  "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["ExampleDude"],

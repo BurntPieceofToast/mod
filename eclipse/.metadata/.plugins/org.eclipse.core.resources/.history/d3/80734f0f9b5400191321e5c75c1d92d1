@@ -1,0 +1,40 @@
+//items
+item.raw_amber.name=Raw Amber
+item.amber_ingot.name=Refined Amber
+item.steel_ingot.name=Steel Ingot
+item.diamond_bit.name=Diamond Bit 
+item.cracked_egg.name=Cracked Egg
+item.cooked_egg.name=Cooked Egg
+item.coal_dust.name=Coal Dust
+item.steel_dust.name=Steel Dust
+item.iron_dust.name=Iron Dust
+item.copper_coil.name=Copper Coil
+item.copper_ingot.name=Copper Ingot
+
+//tools
+item.steel_axe.name=Steel Axe
+item.steel_pickaxe.name=Steel Pickaxe
+item.steel_hoe.name=Steel Hoe
+item.steel_shovel.name=Steel Shovel
+item.steel_sword.name=Steel Sword
+
+//Armor
+item.steel_helmet.name=Steel Helmet
+item.steel_chestplate.name=Steel Chestplate
+item.steel_leggings.name=Steel Leggings
+item.steel_boots.name=Steel Boots
+
+//blocks
+tile.amber_ore.name=Amber Ore
+tile.raw_amber_block.name=Raw Amber Block
+tile.refined_amber_block.name=Refined Amber Block
+tile.grinder_block.name=Grinder
+tile.carrot_block.name=Carrot Block
+tile.copper_ore_block.name=Copper Ore
+
+//oreGen
+tile.ore_overworld_amber.name=Amber Ore
+tile.ore_overworld_carrot.name=Carrot Block
+
+//tabs
+itemGroup.steamfoundation=Steam Foundation

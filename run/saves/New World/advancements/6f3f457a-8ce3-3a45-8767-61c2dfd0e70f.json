@@ -1,0 +1,14 @@
+{
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2019-03-18 14:26:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-03-18 14:25:29 -0400"
+    },
+    "done": false
+  }
+}

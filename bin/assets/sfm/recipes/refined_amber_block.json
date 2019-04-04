@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+
+    "key":
+    {
+        "R":
+        {
+            "item": "sfm:amber_ingot"
+        }
+    },
+
+    "result":
+    {
+        "item": "sfm:refined_amber_block",
+        "count": 1
+    }
+}
+    
+                

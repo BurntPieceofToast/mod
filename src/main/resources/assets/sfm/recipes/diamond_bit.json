@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "  I",
+        "DI ",
+        "DD "
+    ],
+
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:diamond"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+
+    "result":
+    {
+        "item": "sfm:diamond_bit",
+        "count": 1
+    }
+}
+    
+                

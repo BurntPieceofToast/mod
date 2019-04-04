@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-03-28 12:55:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-03-28 12:54:53 -0400"
+    },
+    "done": false
+  }
+}

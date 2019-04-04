@@ -1,0 +1,12 @@
+package com.burntpieceoftoast.steamfoundation.blocks;
+
+import net.minecraft.block.SoundType;
+import net.minecraft.block.material.Material;
+
+public class CopperOre 
+{
+	public CopperOre(String name, Material material) 
+	{
+		
+	}
+}

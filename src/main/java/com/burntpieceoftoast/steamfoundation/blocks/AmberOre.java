@@ -31,7 +31,7 @@ public class AmberOre extends BlockBase {
 	    }
 
 	int minDropAmount = 2;
-	int maxDropAmount = 5;
+	int maxDropAmount = 4;
 	
 
 	public int quantityDropped(Random random)

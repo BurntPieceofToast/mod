@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=amber": { "model" : "sfm:ore_overworld_amber" },
+        "variant=copper": { "model" : "sfm:ore_overworld_copper" }
+    }
+}

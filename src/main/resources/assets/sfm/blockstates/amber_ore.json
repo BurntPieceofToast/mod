@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "sfm:amber_ore.png" }
+        "normal": { "model": "sfm:amber_ore" }
     }
 }

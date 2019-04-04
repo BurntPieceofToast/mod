@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "SSS",
+        " W ",
+        " W "
+    ],
+
+    "key":
+    {
+        "S":
+        {
+            "item": "sfm:steel_ingot"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+
+    "result":
+    {
+        "item": "sfm:steel_pickaxe",
+        "count": 1
+    }
+}
+    
+        
